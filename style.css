@@ -441,3 +441,8 @@ form input{
 form input:focus{
 	outline: none;
 }
+
+.center {
+	text-align: center;
+	margin: 0 auto 25px;
+  }
